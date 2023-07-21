@@ -1,0 +1,16 @@
+/* Quem somos*/
+#quemsomos h5{
+    font-size: 50px;
+    font-family:Arial;
+    color:rgb(77, 87, 217)
+}
+
+#quemsomos p{
+    font-size: 30px;
+    font-family: helvetica;
+    color:blue;
+}
+
+#quemsomos img{
+    width: 75%;
+}
